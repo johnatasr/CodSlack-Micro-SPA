@@ -1,10 +1,5 @@
-<p align="center">
-  <a href="https://maratona.fullcycle.com.br/" target="blank"><img src="http://maratona.fullcycle.com.br/static/site/img/logo-fullcycle.png"/></a>
-</p>
 
 ## Descrição
-
-Maratona FullCycle 4.0
 
 Microsserviço Frontend - CodeSlack com React.js
 
